@@ -1,3 +1,4 @@
+
 🔭 Currently Working On:
 
 Building highly scalable full-stack applications with cutting-edge frameworks like Next.js, React, and Node.js.
@@ -28,3 +29,4 @@ LinkedIn: Biruk Merawi
 
 ⚡️ Fun Fact:
 I love bridging the gap between design and development to create intuitive and powerful web applications that make a difference!
+
