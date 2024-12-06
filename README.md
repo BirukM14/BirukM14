@@ -17,6 +17,8 @@ Looking for Help With:
 -Learning best practices in secure coding for both frontend and backend development.
 
 ![BirukM14's Stats](https://github-readme-stats.vercel.app/api?username=BirukM14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![BirukM14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BirukM14&theme=vue-dark&hide_border=true)
+![BirukM14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirukM14&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 Ask Me About:
 
 -Designing and building RESTful and GraphQL APIs.
