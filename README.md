@@ -15,6 +15,8 @@ Looking for Help With:
 
 -Exploring cutting-edge techniques in optimizing performance for large-scale web applications.
 -Learning best practices in secure coding for both frontend and backend development.
+
+![BirukM14's Stats](https://github-readme-stats.vercel.app/api?username=BirukM14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 Ask Me About:
 
 -Designing and building RESTful and GraphQL APIs.
