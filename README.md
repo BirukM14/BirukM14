@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biruk G. Merawi</h1>
+<h1 align="center">Hi 👋, I'm Biruk Merawi</h1>
 <p align="center"> Enthusiast computer engineer, full stack web developer and mobile app with flutter
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
