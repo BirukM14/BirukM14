@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gbiruka14@gmail.com**
 
-<h3 align="centre">Connect with me:</h3>
+<h3 align="centre">Stay Connected with:</h3>
 <p align="centre">
 <a href="https://www.linkedin.com/in/biruk-merawi-42b592338/?trk=opento_sprofile_details" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birukm14" height="30" width="40" /></a>
 </p>
