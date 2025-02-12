@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer </h3>
 
 
-- 📫 How to reach me **gbiruka14@gmail.com**
+- 📫 How to reach me **biggiemerawi14@gmail.com**
 
 <h3 align="centre">Stay Connected with:</h3>
 <p align="centre">
