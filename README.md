@@ -92,11 +92,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter"/>
-  </a>
-</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=birukm14&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
