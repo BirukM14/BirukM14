@@ -90,7 +90,7 @@
   <img src="https://komarev.com/ghpvc/?username=BirukM14&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=BirukM14" alt="Trophies"/>
   </a>
@@ -98,7 +98,7 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=birukm14&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=birukm14&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
 <p>&nbsp;
