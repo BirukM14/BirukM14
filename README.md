@@ -80,7 +80,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
-  <p align="left">
+  <p align="right">
     <img src="https://camo.githubusercontent.com/c898787b197d626dfff7dfaae79d1f42676d110d793a98740dba9eef6854df4e/68747470733a2f2f632e74656e6f722e636f6d2f427162496854344d62376341414141642f70726f6772616d6d65722d726f756e6465642d65646765732e676966"
       alt="computer  vision"/>
   </p>
