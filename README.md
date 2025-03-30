@@ -82,7 +82,7 @@
   </a> 
   <p align="center">
     <img src="https://camo.githubusercontent.com/c898787b197d626dfff7dfaae79d1f42676d110d793a98740dba9eef6854df4e/68747470733a2f2f632e74656e6f722e636f6d2f427162496854344d62376341414141642f70726f6772616d6d65722d726f756e6465642d65646765732e676966"
-      alt="computer  vision" width="60" height="60"/>
+      alt="computer  vision" width="200" height="130"/>
   </p>
 </p>
 
