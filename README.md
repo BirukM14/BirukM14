@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Biruk Merawi</h1>
-<p align="center"> Full stack web developer, enthusiast machine learining computer, and communication engineer.</p>
+<p align="center"> mern stack web developer, enthusiast machine learining computer, and communication engineer.</p>
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Profile Banner">
 </p>
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **biggiemerawi14@gmail.com**
 
-<h3 align="center">Stay Connected with me:</h3>
+<h3 align="center">Stay Connected with :</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/biruk-merawi-42b592338/?trk=opento_sprofile_details" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
