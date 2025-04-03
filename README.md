@@ -4,7 +4,7 @@
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Profile Banner">
 </p>
 
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A  full stack developer</h3>
 
 - 📫 How to reach me **biggiemerawi14@gmail.com**
 
